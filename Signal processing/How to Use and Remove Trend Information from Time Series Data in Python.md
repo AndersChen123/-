@@ -1,0 +1,1 @@
+[How to Use and Remove Trend Information from Time Series Data in Python](https://machinelearningmastery.com/time-series-trends-in-python/)
